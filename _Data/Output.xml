@@ -12653,6 +12653,9 @@
 	<sentence id="1779">
 		<text>đến quán với tâm thái thử một lần cho biết nhưng chắc chắn sẽ còn phải quay lại ít nhất vài lần nữa .</text>
 		<Opinions>
+        </Opinions>
+    </sentence>
+
 	<sentence id="1736">
 		<text>ông chủ người hàn nên nói tv vẫn chưa rõ lắm nên nghe vui vui hihi .</text>
 		<Opinions>
@@ -13440,7 +13443,7 @@
 			<Opinion category="OTHER#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
 	</sentence>
-	
+
 	<sentence id="1860">
 		<text>quán luôn đông khách .</text>
 		<Opinions>
@@ -35483,6 +35486,8 @@
 	<sentence id="4947">
 		<text>chỉ phù hợp cafe uống nước hơn là đi ăn .</text>
 		<Opinions>
+        </Opinions>
+    </sentence>
 	<sentence id="4946">
 		<text>nhắc lại tóm gọn là menu thức ăn đắt và nấu rất lâu .</text>
 		<Opinions>

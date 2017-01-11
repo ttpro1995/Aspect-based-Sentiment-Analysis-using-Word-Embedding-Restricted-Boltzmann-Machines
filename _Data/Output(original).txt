@@ -1601,7 +1601,7 @@
 	</sentence>
 
 	<sentence id="225">
-		<text>đặt bàn trước cũng không được hỏi ( chắc tại quán vắng quá )  không được giảm 10% !</text>
+		<text>đặt bàn trước cũng không được hỏi ( chắc tại quán vắng quá ) = > không được giảm 10% !</text>
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="negative" target="null" to="null"/>
 		</Opinions>
@@ -3728,7 +3728,7 @@
 	</sentence>
 
 	<sentence id="523">
-		<text>mình rất hài lòng ở đây , nhân viên phục vụ dễ thương và món gà thì ngon quá mức cho phép sẽ ghé quán lần nữa.</text>
+		<text>mình rất hài lòng ở đây , nhân viên phục vụ dễ thương và món gà thì ngon quá mức cho phép > _ < sẽ ghé quán lần nữa.</text>
 		<Opinions>
 			<Opinion category="STAFF#GENERAL" polarity="positive" target="null" to="null"/>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
@@ -5339,7 +5339,7 @@
 	<sentence id="748">
 		<text>và đặc biệt là mấy bạn nhân viên , bạn nào cũng đẹp.</text>
 		<Opinions>
-			<Opinion category="STAFF#GENERAL" polarity="positive" target="null" to="null"/>
+			<Opinion category="STAFF#GENERAL" polarity="" target="null" to="null"/>
 		</Opinions>
 	</sentence>
 
@@ -8471,7 +8471,7 @@
 	</sentence>
 
 	<sentence id="1188">
-		<text>về giá thì chấp nhận được , tuy hơi nhỉnh hơn 1 xíu so với các nhà hàng khác nhưng vì vị trí nằm ngay trung tâm sài gòn cũng ok mà mình nhất định sẽ quay lại .</text>
+		<text>về giá thì chấp nhận được , tuy hơi nhỉnh hơn 1 xíu so với các nhà hàng khác nhưng vì vị trí nằm ngay trung tâm sài gòn = > cũng ok mà mình nhất định sẽ quay lại .</text>
 		<Opinions>
 			<Opinion category="PRICE#GENERAL" polarity="positive" target="null" to="null"/>
 			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="null" to="null"/>
@@ -11357,7 +11357,7 @@
 	</sentence>
 
 	<sentence id="1596">
-		<text>hôm nhóm mình đến là 1 buổi tối trong tuần nhưng quán vẫn khá đông , gần như không còn bàn trống menu tuy nhìn hơi ít món nhưng đi nhóm 4 người chỉ cần kêu 3-5 món là có thể no nê ^ ^ ấn tượng nhất là món soup kim chi  vị của món này ngon kinh khủng , ngon hơn hẳn những quán hàn quốc mình đã thử trước đây !</text>
+		<text>hôm nhóm mình đến là 1 buổi tối trong tuần nhưng quán vẫn khá đông , gần như không còn bàn trống menu tuy nhìn hơi ít món nhưng đi nhóm 4 người chỉ cần kêu 3-5 món là có thể no nê ^ ^ ấn tượng nhất là món soup kim chi < 3 vị của món này ngon kinh khủng , ngon hơn hẳn những quán hàn quốc mình đã thử trước đây !</text>
 		<Opinions>
 			<Opinion category="OTHER#GENERAL" polarity="negative" target="null" to="null"/>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
@@ -11597,7 +11597,7 @@
 	</sentence>
 
 	<sentence id="1630">
-		<text>mình đến quán sớm nhất , chưa có khách nào mà đợi lên món cũng khoảng  20  .</text>
+		<text>mình đến quán sớm nhất , chưa có khách nào mà đợi lên món cũng khoảng > 20 ' .</text>
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="negative" target="null" to="null"/>
 		</Opinions>
@@ -11931,7 +11931,7 @@
 	</sentence>
 
 	<sentence id="1677">
-		<text>gà nướng sốt cay rất ngon mà không có bị khô , một phần lớn thì 300k có thể gọi nửa phần như hình .</text>
+		<text>gà nướng sốt cay rất ngon mà không có bị khô , một phần lớn thì > 300k có thể gọi nửa phần như hình .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -14098,7 +14098,7 @@
 	</sentence>
 
 	<sentence id="1951">
-		<text>nhân viên tận tình , nhưng nhiều lúc đông quá hay lơ là không thấy khách kêu </text>
+		<text>nhân viên tận tình , nhưng nhiều lúc đông quá hay lơ là không thấy khách kêu > <</text>
 		<Opinions>
 			<Opinion category="STAFF#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
@@ -14988,7 +14988,7 @@
 	</sentence>
 
 	<sentence id="2076">
-		<text>đúng tên của quán , thức ăn ngon </text>
+		<text>đúng tên của quán , thức ăn ngon < 3</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -15702,7 +15702,7 @@
 	</sentence>
 
 	<sentence id="2176">
-		<text>quán phần lớn là dành cho người nước ngoài (  60 ) , còn lại đa số là việt kiều hay việt nam ( 40 )</text>
+		<text>quán phần lớn là dành cho người nước ngoài ( > 60% ) , còn lại đa số là việt kiều hay việt nam ( 40% )</text>
 		<Opinions>
 			<Opinion category="OTHER#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
@@ -19341,7 +19341,7 @@
 	</sentence>
 
 	<sentence id="2685">
-		<text>với giá không quá 80k kèm thêm bánh mì , nước lọc miễn phí , khoai tây chiên và phần salad có nước sốt đặc biệt rất ngon ( cho 1 phần bình thường ) là quá rẻ . ngoài ra còn có món mì ý thịt nguội sốt cream cực ngon </text>
+		<text>với giá không quá 80k kèm thêm bánh mì , nước lọc miễn phí , khoai tây chiên và phần salad có nước sốt đặc biệt rất ngon ( cho 1 phần bình thường ) là quá rẻ . ngoài ra còn có món mì ý thịt nguội sốt cream cực ngon < 3</text>
 		<Opinions>
 			<Opinion category="PRICE#GENERAL" polarity="positive" target="null" to="null"/>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
@@ -20542,7 +20542,7 @@
 	</sentence>
 
 	<sentence id="2854">
-		<text>món lên lâu 15-20p mới có mà ăn không được trọn dẹn bạn mình ăn mì không biết mì như thế nào nhưng nó nói tạm được .</text>
+		<text>món lên lâu 15-20p mới có mà ăn không được trọn dẹn < bạn mình ăn mì không biết mì như thế nào nhưng nó nói tạm được .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="negative" target="null" to="null"/>
 		</Opinions>
@@ -21306,7 +21306,7 @@
 	</sentence>
 
 	<sentence id="2961">
-		<text>đã ăn và ghiền , điểm trừ của chỗ này là mỗi tội đông quá phải gửi xe kế bên mất 5k ( mình ngại nhất đi đâu gửi xe tốn tiền ) với cả nhiều lúc khách đông quá phải xếp hàng hoặc là ngồi chung với khách khác rất mất tự nhiên </text>
+		<text>đã ăn và ghiền , điểm trừ của chỗ này là mỗi tội đông quá phải gửi xe kế bên mất 5k ( mình ngại nhất đi đâu gửi xe tốn tiền ) với cả nhiều lúc khách đông quá phải xếp hàng hoặc là ngồi chung với khách khác rất mất tự nhiên <</text>
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="negative" target="null" to="null"/>
 		</Opinions>
@@ -21927,7 +21927,7 @@
 	</sentence>
 
 	<sentence id="3048">
-		<text>phần sốt béo ngậy , đã vậy còn thêm chén phô mai bột nữa  .</text>
+		<text>phần sốt béo ngậy , đã vậy còn thêm chén phô mai bột nữa < 3 .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -22408,7 +22408,7 @@
 	</sentence>
 
 	<sentence id="3115">
-		<text>nước uống - nước lọc d  không đánh giá</text>
+		<text>nước uống - nước lọc d = > không đánh giá</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
@@ -24047,7 +24047,7 @@
 	</sentence>
 
 	<sentence id="3345">
-		<text>ngon tới mức lúc cắn một miếg xong bần thần luôn " nước uống thì có trà đá miễn phí nha  </text>
+		<text>ngon tới mức lúc cắn một miếg xong bần thần luôn " > nước uống thì có trà đá miễn phí nha  </text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -24225,7 +24225,7 @@
 	</sentence>
 
 	<sentence id="3370">
-		<text>lần này mình đặt bàn trễ quá nên chỉ còn bàn lúc 8h30 tối , đến quán vẫn phải chờ thêm 10p mới có bàn , chị nhân viên mời nước trong lúc chờ  .</text>
+		<text>lần này mình đặt bàn trễ quá nên chỉ còn bàn lúc 8h30 tối , đến quán vẫn phải chờ thêm 10p mới có bàn , chị nhân viên mời nước trong lúc chờ < 3 .</text>
 		<Opinions>
 			<Opinion category="SERVICE#GENERAL" polarity="positive" target="null" to="null"/>
 			<Opinion category="AMBIENCE#GENERAL" polarity="neutral" target="null" to="null"/>
@@ -26671,7 +26671,7 @@
 	</sentence>
 
 	<sentence id="3716">
-		<text>quán hơi nhỏ nhưng đồ ăn ngon tuyệt cú mèo , pizza ngon và thơm , chế biến kiểu nhật nên ăn không bị ngấy như các loại khác thích nhất là phô mai cục tự làm của nhà hàng  giá cả hợp lý , chắc chắn sẽ quay lại nhiều hơn nữa ...</text>
+		<text>quán hơi nhỏ nhưng đồ ăn ngon tuyệt cú mèo , pizza ngon và thơm , chế biến kiểu nhật nên ăn không bị ngấy như các loại khác thích nhất là phô mai cục tự làm của nhà hàng < 3 giá cả hợp lý , chắc chắn sẽ quay lại nhiều hơn nữa ...</text>
 		<Opinions>
 			<Opinion category="AMBIENCE#GENERAL" polarity="negative" target="null" to="null"/>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
@@ -27775,7 +27775,7 @@
 	</sentence>
 
 	<sentence id="3870">
-		<text>mì jajang ngon sợi dai dai là mình thích rồi , canh cũng ngon tuốt  nhưng bữa ăn canh rong biển thấy thích hơn .</text>
+		<text>mì jajang ngon sợi dai dai là mình thích rồi , canh cũng ngon tuốt > _ < nhưng bữa ăn canh rong biển thấy thích hơn .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -29777,7 +29777,7 @@
 	</sentence>
 
 	<sentence id="4149">
-		<text>hi vọng đỡ hơn 2 món mình trên  </text>
+		<text>hi vọng đỡ hơn 2 món mình trên > . <  </text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
@@ -30533,7 +30533,7 @@
 	</sentence>
 
 	<sentence id="4255">
-		<text>cách trang trí mới tạo cảm giác vô cùng sang trọng và ấm cúng 3 rất là thích ngarrrr " </text>
+		<text>cách trang trí mới tạo cảm giác vô cùng sang trọng và ấm cúng 3 rất là thích ngarrrr " ></text>
 		<Opinions>
 			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -30568,7 +30568,7 @@
 	</sentence>
 
 	<sentence id="4260">
-		<text>menu quán giá khá phù hợp , ví dụ 2 người tụi mình đi có thể dao động 40k  65k cho 1 người mà vẫn ăn được 3 4 món , ăn xong là lăn lăn về luôn .</text>
+		<text>menu quán giá khá phù hợp , ví dụ 2 người tụi mình đi có thể dao động 40k > 65k cho 1 người mà vẫn ăn được 3 4 món , ăn xong là lăn lăn về luôn .</text>
 		<Opinions>
 			<Opinion category="PRICE#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -33511,7 +33511,7 @@
 	</sentence>
 
 	<sentence id="4670">
-		<text>đồ ăn cũng ổn nhưng không có gì ấn tượng cả , được cái ăn no nê luôn </text>
+		<text>đồ ăn cũng ổn nhưng không có gì ấn tượng cả , được cái ăn no nê luôn < 3</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
@@ -35275,7 +35275,7 @@
 	</sentence>
 
 	<sentence id="4918">
-		<text>quán có 1 lầu và lầu đó được chia ra làm 2 khu vực riêng  có 2 cầu thang 2 bên  nên nếu hội họp hẹn hò đám bạn mà có người lên trước lên sau thì các bạn nên hỏi rõ xem bạn mình là phía nào của quán kẻo tốn thời gian lạc loanh quanh  như mình "   .</text>
+		<text>quán có 1 lầu và lầu đó được chia ra làm 2 khu vực riêng  có 2 cầu thang 2 bên  nên nếu hội họp hẹn hò đám bạn mà có người lên trước lên sau thì các bạn nên hỏi rõ xem bạn mình là phía nào của quán kẻo tốn thời gian lạc loanh quanh  như mình " >  .</text>
 		<Opinions>
 			<Opinion category="OTHER#GENERAL" polarity="neutral" target="null" to="null"/>
 		</Opinions>
