@@ -85,7 +85,7 @@ if __name__ == "__main__":
     # Load dữ liệu sentences
     print "Loading Data..."
     # Load dữ liệu
-    data, labels, pos_neg_labels = LoadData('..\_Data\Output_FSA.txt')
+    data, labels, pos_neg_labels = LoadData('..\_Data\Output_FSA.xml')
     print len(data)
     # Ghi ra file
     file_out = open('svm_data.txt','w')

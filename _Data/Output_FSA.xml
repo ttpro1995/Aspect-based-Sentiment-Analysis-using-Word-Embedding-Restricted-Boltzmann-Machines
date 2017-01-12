@@ -2962,7 +2962,7 @@
 	<sentence id="748">
 		<text>và đặc biệt là mấy bạn nhân viên , bạn nào cũng đẹp.</text>
 		<Opinions>
-			<Opinion category="STAFF#GENERAL" polarity="" target="null" to="null"/>
+			<Opinion category="STAFF#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
 	</sentence>
 
@@ -6710,7 +6710,7 @@
 	</sentence>
 
 	<sentence id="1677">
-		<text>gà nướng sốt cay rất ngon mà không có bị khô , một phần lớn thì > 300k có thể gọi nửa phần như hình .</text>
+		<text>gà nướng sốt cay rất ngon mà không có bị khô , một phần lớn thì  300k có thể gọi nửa phần như hình .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -8334,7 +8334,7 @@
 	</sentence>
 
 	<sentence id="2076">
-		<text>đúng tên của quán , thức ăn ngon < 3</text>
+		<text>đúng tên của quán , thức ăn ngon</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -10847,7 +10847,7 @@
 	</sentence>
 
 	<sentence id="2854">
-		<text>món lên lâu 15-20p mới có mà ăn không được trọn dẹn < bạn mình ăn mì không biết mì như thế nào nhưng nó nói tạm được .</text>
+		<text>món lên lâu 15-20p mới có mà ăn không được trọn dẹn bạn mình ăn mì không biết mì như thế nào nhưng nó nói tạm được .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="negative" target="null" to="null"/>
 		</Opinions>
@@ -11442,7 +11442,7 @@
 	</sentence>
 
 	<sentence id="3048">
-		<text>phần sốt béo ngậy , đã vậy còn thêm chén phô mai bột nữa < 3 .</text>
+		<text>phần sốt béo ngậy , đã vậy còn thêm chén phô mai bột nữa .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -12492,7 +12492,7 @@
 	</sentence>
 
 	<sentence id="3345">
-		<text>ngon tới mức lúc cắn một miếg xong bần thần luôn " > nước uống thì có trà đá miễn phí nha  </text>
+		<text>ngon tới mức lúc cắn một miếg xong bần thần luôn " nước uống thì có trà đá miễn phí nha  </text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -14458,7 +14458,7 @@
 	</sentence>
 
 	<sentence id="3870">
-		<text>mì jajang ngon sợi dai dai là mình thích rồi , canh cũng ngon tuốt > _ < nhưng bữa ăn canh rong biển thấy thích hơn .</text>
+		<text>mì jajang ngon sợi dai dai là mình thích rồi , canh cũng ngon tuốt nhưng bữa ăn canh rong biển thấy thích hơn .</text>
 		<Opinions>
 			<Opinion category="FOOD#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>
@@ -15730,7 +15730,7 @@
 	</sentence>
 
 	<sentence id="4255">
-		<text>cách trang trí mới tạo cảm giác vô cùng sang trọng và ấm cúng 3 rất là thích ngarrrr " ></text>
+		<text>cách trang trí mới tạo cảm giác vô cùng sang trọng và ấm cúng 3 rất là thích ngarrrr " </text>
 		<Opinions>
 			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="null" to="null"/>
 		</Opinions>

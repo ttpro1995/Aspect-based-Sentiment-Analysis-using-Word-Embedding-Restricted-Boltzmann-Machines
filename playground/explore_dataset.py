@@ -62,8 +62,9 @@ def InspectData (filename):
                 num_aspect_per_sent[len(Opinions)] = 1
             else:
                 num_aspect_per_sent[len(Opinions)] +=1
-            if (len(Opinions) > 50):
+            if (len(Opinions) == 0):
                 print all_sentences[i]
+
 
             for j in range(len(Opinions)):
                 num_of_label+=1
@@ -84,5 +85,5 @@ def InspectData (filename):
 
     return aspects_freq, num_of_sentence, num_of_label,num_aspect_per_sent
 
-aspects_freq, num_of_sentence, num_of_label, num_aspect_per_sent = InspectData('../_Data/Output.xml')
+aspects_freq, num_of_sentence, num_of_label, num_aspect_per_sent = InspectData('../_Data/Output_FSA.xml')
 print('breakpoint')
