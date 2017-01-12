@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print "Splitting file..."
     for i in range(len(sentences)):
         sentences[i] = sentences[i].split()
-    print sentences
+    # print sentences
     print "Training model..."
     model = gensim.models.word2vec.Word2Vec(sentences=sentences, size=300, window=5, min_count=1, workers=5)
     print "Save model..."
